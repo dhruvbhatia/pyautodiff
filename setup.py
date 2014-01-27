@@ -23,3 +23,4 @@ setup(
         'Operating System :: MacOS'
     ]
 )
+
